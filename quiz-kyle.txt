@@ -1,0 +1,43 @@
+1. What is MVC?
+Its Reacts  model view controller
+
+2. What is a controller? 
+Controls the flow of data
+
+3. What was the purpose of MVC?
+
+4. Name a few view modules Node uses. 
+Mongoose , Bcrypt, cors
+
+5. Why is React, Vue, Angular created? And what is frontend framework?
+So its easier to create and run apps in your client.
+
+6. What is a Single Page Application?
+An app location that does not have to reload and contact the server for every action
+
+7. What is a React component? 
+It is a like a modular section of the application. Your content area or nav bar can be its own separate component so they can be used repeatedly or changed without having to affect a ton of other items
+
+8. List the first 3 steps in order when a component is initialized.
+Mount unmount reload
+
+9. What is a props?
+The properties in your class constructor
+
+10. What is a state?
+Kind of like your variables value?
+
+11. What is http call?
+Like a post or get request
+
+12. What module you can use for http in React?
+
+13. What is an endpoint? 
+Its a route you make to get to a certain destination in your app
+
+14. What is an API? 
+Application programming interface
+
+15. What is JWT and why we need JWT? 
+Json Web Token.  Its used for authorization
+
